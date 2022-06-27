@@ -1,0 +1,60 @@
+.B{
+    text-decoration: none;
+    display: block;  
+    color: #e5efff;
+    font-size: 48px;
+    font-family: 'Stoke', Serif;
+    background-color: #367bf5;
+    border-radius: 16px;
+    height: 96px;
+    width: 384px;
+    text-align: center;
+    padding-top: 48px;
+    transition: 0.5s;
+    margin-top: 16px;
+}
+.B:hover{
+    color: #367bf5;
+    background-color: #e5efff;
+    border-radius: 24px;
+}
+.R{
+    text-decoration: none;
+    display: block;  
+    color: #fee4e2;
+    font-size: 48px;
+    font-family: 'Stoke', Serif;
+    background-color: #ea3d2f;
+    border-radius: 16px;
+    height: 96px;
+    width: 384px;
+    text-align: center;
+    padding-top: 48px;
+    transition: 0.5s;
+    margin-top: 16px;
+}
+.R:hover{
+    color: #ea3d2f;
+    background-color: #fee4e2;
+    border-radius: 24px;
+}
+.G{
+    text-decoration: none;
+    display: block;  
+    color: #dcf7e3;
+    font-size: 48px;
+    font-family: 'Stoke', Serif;
+    background-color: #2fa84f;
+    border-radius: 16px;
+    height: 96px;
+    width: 384px;
+    text-align: center;
+    padding-top: 48px;
+    transition: 0.5s;
+    margin-top: 16px;
+}
+.G:hover{
+    color: #2fa84f;
+    background-color: #dcf7e3;
+    border-radius: 24px;
+}
